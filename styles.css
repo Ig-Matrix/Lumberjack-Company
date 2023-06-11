@@ -93,7 +93,7 @@ body{
 .home .hero {
     min-height: 50vh;
    
-    background:url(/Images/cropped-IMG_1463-scaled-1.jpg) ;
+    background:url(./Images/cropped-IMG_1463-scaled-1.jpg) ;
     background-size: cover;
     background-position: center;
     display: flex;
